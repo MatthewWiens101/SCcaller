@@ -1,9 +1,13 @@
-# SCcaller
+# SCcaller (+ Docker)
 Single Cell Caller (SCcaller) - Identify single nucleotide variations (SNVs) and short insertions and deletions (INDELs) from single cell sequencing data
 
 Version 2.0.0
 
 Updated date: 2019.04.01
+
+Docker build date: 2021.07.01
+
+Access docker image at https://hub.docker.com/repository/docker/mawiens/SCcaller
 
 Cite us:
 
